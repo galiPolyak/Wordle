@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0B6415F3-7B96-4302-BB07-DC8927A04B70}|Default">
+  <MonoDevelop.Ide.ItemProperties.PolyakGPASS1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolyakGPASS1/Program.cs">
+    <Files>
+      <File FileName="PolyakGPASS1/Program.cs" Line="115" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PolyakGPASS1" expanded="True">
+            <Node name="PolyakGPASS1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

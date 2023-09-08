@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyakGPASS1", "PolyakGPASS1.csproj", "{0B6415F3-7B96-4302-BB07-DC8927A04B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6415F3-7B96-4302-BB07-DC8927A04B70}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0B6415F3-7B96-4302-BB07-DC8927A04B70}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0B6415F3-7B96-4302-BB07-DC8927A04B70}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0B6415F3-7B96-4302-BB07-DC8927A04B70}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1C04C3-27DD-4818-9447-FF09AB95E257}
+	EndGlobalSection
+EndGlobal

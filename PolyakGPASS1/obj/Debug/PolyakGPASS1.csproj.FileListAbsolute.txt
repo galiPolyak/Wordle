@@ -1,0 +1,18 @@
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/bin/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/bin/Debug/PolyakGPASS1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/obj/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1/PolyakGPASS1/obj/Debug/PolyakGPASS1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/bin/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/bin/Debug/PolyakGPASS1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/obj/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 copy/PolyakGPASS1/obj/Debug/PolyakGPASS1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/bin/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/bin/Debug/PolyakGPASS1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/obj/Debug/PolyakGPASS1.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/obj/Debug/PolyakGPASS1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/PASS1/PolyakGPASS1 2/PolyakGPASS1/obj/Debug/PolyakGPASS1.pdb
